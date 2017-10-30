@@ -2,10 +2,11 @@
 
 ---
 
-### About getch
+### About `getch`
 
 - This works similar to the getch function of conio.h (C/C++).
 - Works only for Windows.
+- [Documentation: godoc](https://godoc.org/github.com/jeet-parekh/getch)
 
 ---
 
